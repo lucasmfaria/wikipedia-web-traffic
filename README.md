@@ -7,6 +7,4 @@ Kaggle dataset: https://www.kaggle.com/c/web-traffic-time-series-forecasting/dat
 ## TODOs
 
 - Finish EDA
-- Time series decomposition
-- Verify stationarity
 - Prediction (try different approachs/models)
